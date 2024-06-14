@@ -1,6 +1,6 @@
 {
   "name": "smsir_mh_js6",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "This package is for using SMS service from sms.ir should get API and templetId from sms.ir javaScript, ES6 support",
   "main": "smsir_mh_js6.js",
   "type": "module",
