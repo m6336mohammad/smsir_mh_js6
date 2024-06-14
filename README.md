@@ -36,14 +36,18 @@ To install the package, run:
 npm install axios
 npm install smsir_mh_js6
 
-
+```
+```bash
 #yarn
 yarn add axios
 yarn add smsir_mh_js6
+```
+
 
 
 # Example use:
 
+```bash
 import SendAlertSMSIR from 'smsir_mh_js6';
 
 const apiKey = '121212121212121212121';  //Example API Key
@@ -53,5 +57,5 @@ const templateId = '750016';  //Example template ID
 
 SendAlertSMSIR(to, message, apiKey, templateId);
 
-
 ```
+
