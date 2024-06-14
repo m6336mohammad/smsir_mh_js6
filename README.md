@@ -5,7 +5,7 @@ This package is for using SMS service from sms.ir should get API and templetId f
 After installation, go to package.json and add "type":"module".
 
 ## Test Resalt
-
+```bash
 npm test
 
 PASS ./smsir_mh_js6.test.js
@@ -18,13 +18,13 @@ Tests: 3 passed, 3 total
 Snapshots: 0 total
 Time: 1.157 s
 Ran all test suites.
-
+```
 ## Author
 
 Mohammad Hadi  
 Email: mmm.6336@gmail.com
 
-Donate address : TS3ZnWGHfDnW7FcG8p6BYrWAis2nzX3gDG //USDT TRC20
+Donate address : `TS3ZnWGHfDnW7FcG8p6BYrWAis2nzX3gDG` //USDT TRC20
 
 ## Installation
 
